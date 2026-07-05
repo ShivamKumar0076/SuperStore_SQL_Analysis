@@ -4,7 +4,17 @@
 This project analyzes the Global SuperStore dataset using PostgreSQL. The goal is to solve real-world business problems using SQL and generate meaningful business insights.
 
 ---
-
+## 🛠 Skills
+- PostgreSQL
+- SQL
+- Window Functions
+- CTE
+- Joins
+- Subqueries
+- Business Analysis
+  
+ ---
+ 
 ## 🛠 Tools Used
 - PostgreSQL
 - pgAdmin 4
